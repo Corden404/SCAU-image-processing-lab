@@ -7,16 +7,6 @@
 # Allow Python source files
 !*.py
 
-# Allow image files
-!*.jpg
-!*.jpeg
-!*.png
-!*.gif
-!*.bmp
-!*.tiff
-!*.webp
-!*.ico
-!*.svg
 !.gitignore
 
 # Specifically ignore the .trash directory
