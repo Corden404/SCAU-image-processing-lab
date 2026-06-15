@@ -11,3 +11,5 @@
 
 # Specifically ignore the .trash directory
 .trash/
+
+!README.md
